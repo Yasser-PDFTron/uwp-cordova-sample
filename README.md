@@ -4,6 +4,9 @@
 
 This is a UWP sample to show how you can create an app that can host Cordova generated files (from `www` directory that contains the web-based source code, including the `index.html` home page) within a `WebView` control and simultaneously open PDF files in the `PDFViewCtrl`. Thus, providing you with a way to host and integrate your Cordova project source code and PDFTron's native UWP SDK within a single app.
 
+![CordovaPage](https://pdftron.s3.amazonaws.com/custom/websitefiles/uwp/Cordova.PNG) 
+![PDFTronPage](https://pdftron.s3.amazonaws.com/custom/websitefiles/uwp/PDFTronSDK.PNG) 
+
 ## Install
 
 Step 1: The first step is to generate Cordova files. If you are new to Cordova and want to start with a Cordova Windows sample app then please try the following:
